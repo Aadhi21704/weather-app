@@ -1,0 +1,2 @@
+paste this in the terminal before trying to run the file:
+"""Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"""
